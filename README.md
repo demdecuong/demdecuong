@@ -11,11 +11,11 @@
 ## I'm a Data Scientist, AI Engineer, and Sports enthusiast!!
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m working at AIA as Data Scientist, Ex-VinBrain (proud to be apart of them)
-- 🌱 I’m currently learning DevOps, Cloud, Recent Advances in NLP and Deep Learning 🤣
+- 🌱 I’m working at FPT Software as AI Scientist, Ex-VinBrain (proud to be a part of them)
+- 🌱 I’m currently learning insurance, business, and start-up
 - 👯 I’m looking to collaborate with other Data/Applied Scientist
-- 🥅 2022 Goals: Learn more about K8s, MLOps
-- ⚡ Fun fact: I love cycling and watching fish swim
+- 🥅 2024 Goals: Advance setup of terrarium 🌱
+- ⚡ Fun fact: I love cycling and terrarium
 
 <!-- ### Connect with me:
 
@@ -86,14 +86,6 @@
 
 <!-- --- -->
 
-<!-- </details>
-
-<details> -->
-  <!-- <summary>:zap: GitHub Stats</summary> -->
-
-  <img align="left" alt="demdecuong's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=demdecuong&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
 
 [github]: https://github.com/demdecuong
 <!-- [website]: https://codeSTACKr.com -->
