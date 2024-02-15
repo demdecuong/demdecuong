@@ -8,15 +8,6 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com) -->
 
 
-## I'm a Data Scientist, AI Engineer, and Sports enthusiast!!
-
-<!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m working at FPT Software as AI Scientist, Ex-VinBrain (proud to be a part of them)
-- 🌱 I’m currently learning insurance, business, and start-up
-- 👯 I’m looking to collaborate with other Data/Applied Scientist
-- 🥅 2024 Goals: Advance setup of terrarium 🌱
-- ⚡ Fun fact: I love cycling and terrarium
-
 <!-- ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
